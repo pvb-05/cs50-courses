@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because in your video I see that those sorting methods are related to the worst and best cases, so I will rely on those two cases.
+First I will create 2 tables worst case and best case time of each sort1,sort1,sort3 with each 5000,10000,5000 .I will find Sort 2,Sort 3 first and the rest will be Sort 1
+
+sort2 uses: Merge Sort
+
+How do you know?: In worst case time Merge < Selection/Bubble. So Sort 2 always exhausts less time than sort 1,3 => Merge Sort
+
+sort3 uses: Selection Sort
+
+How do you know?:  In best case time Bubble < Merge < Selection. So Sort3 always exhausts more time than sort 1, 2c => Selection Sort
